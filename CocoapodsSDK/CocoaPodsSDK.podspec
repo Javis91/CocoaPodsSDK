@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'CocoaPodsSDK'
-  s.version          = '1.0.0'
+  s.name             = 'CocoaPodsTestJavsSDK'
+  s.version          = '1.0.1'
   s.summary          = 'Test Pods to CocoaPods.'
   s.homepage         = 'https://github.com/Javis91/CocoaPodsSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
